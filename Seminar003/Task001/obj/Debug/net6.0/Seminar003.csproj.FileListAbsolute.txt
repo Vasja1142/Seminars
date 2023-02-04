@@ -1,0 +1,15 @@
+C:\Users\Вася\Desktop\Новая папка\seminar\Seminar003\Task001\bin\Debug\net6.0\Seminar003.exe
+C:\Users\Вася\Desktop\Новая папка\seminar\Seminar003\Task001\bin\Debug\net6.0\Seminar003.deps.json
+C:\Users\Вася\Desktop\Новая папка\seminar\Seminar003\Task001\bin\Debug\net6.0\Seminar003.runtimeconfig.json
+C:\Users\Вася\Desktop\Новая папка\seminar\Seminar003\Task001\bin\Debug\net6.0\Seminar003.dll
+C:\Users\Вася\Desktop\Новая папка\seminar\Seminar003\Task001\bin\Debug\net6.0\Seminar003.pdb
+C:\Users\Вася\Desktop\Новая папка\seminar\Seminar003\Task001\obj\Debug\net6.0\Seminar003.csproj.AssemblyReference.cache
+C:\Users\Вася\Desktop\Новая папка\seminar\Seminar003\Task001\obj\Debug\net6.0\Seminar003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Вася\Desktop\Новая папка\seminar\Seminar003\Task001\obj\Debug\net6.0\Seminar003.AssemblyInfoInputs.cache
+C:\Users\Вася\Desktop\Новая папка\seminar\Seminar003\Task001\obj\Debug\net6.0\Seminar003.AssemblyInfo.cs
+C:\Users\Вася\Desktop\Новая папка\seminar\Seminar003\Task001\obj\Debug\net6.0\Seminar003.csproj.CoreCompileInputs.cache
+C:\Users\Вася\Desktop\Новая папка\seminar\Seminar003\Task001\obj\Debug\net6.0\Seminar003.dll
+C:\Users\Вася\Desktop\Новая папка\seminar\Seminar003\Task001\obj\Debug\net6.0\refint\Seminar003.dll
+C:\Users\Вася\Desktop\Новая папка\seminar\Seminar003\Task001\obj\Debug\net6.0\Seminar003.pdb
+C:\Users\Вася\Desktop\Новая папка\seminar\Seminar003\Task001\obj\Debug\net6.0\Seminar003.genruntimeconfig.cache
+C:\Users\Вася\Desktop\Новая папка\seminar\Seminar003\Task001\obj\Debug\net6.0\ref\Seminar003.dll
