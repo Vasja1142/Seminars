@@ -3,9 +3,9 @@
 Console.Clear();
 
 Console.Write("Введите число: ");
-int A = int.Parse(Console.ReadLine());
+int A = int.Parse(Console.ReadLine()!);
 Console.Write("Введите степень: ");
-int B = int.Parse(Console.ReadLine());
+int B = int.Parse(Console.ReadLine()!);
 
 int count = 1;
 
