@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Вася\\Desktop\\Репозитории\\seminar\\Seminar004\\Task002\\Task002.csproj": {}
+    "C:\\Users\\Вася\\Desktop\\Репозитории\\Seminars\\Seminar004\\Task002\\Task002.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Вася\\Desktop\\Репозитории\\seminar\\Seminar004\\Task002\\Task002.csproj": {
+    "C:\\Users\\Вася\\Desktop\\Репозитории\\Seminars\\Seminar004\\Task002\\Task002.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Вася\\Desktop\\Репозитории\\seminar\\Seminar004\\Task002\\Task002.csproj",
+        "projectUniqueName": "C:\\Users\\Вася\\Desktop\\Репозитории\\Seminars\\Seminar004\\Task002\\Task002.csproj",
         "projectName": "Task002",
-        "projectPath": "C:\\Users\\Вася\\Desktop\\Репозитории\\seminar\\Seminar004\\Task002\\Task002.csproj",
+        "projectPath": "C:\\Users\\Вася\\Desktop\\Репозитории\\Seminars\\Seminar004\\Task002\\Task002.csproj",
         "packagesPath": "C:\\Users\\Вася\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Вася\\Desktop\\Репозитории\\seminar\\Seminar004\\Task002\\obj\\",
+        "outputPath": "C:\\Users\\Вася\\Desktop\\Репозитории\\Seminars\\Seminar004\\Task002\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Вася\\AppData\\Roaming\\NuGet\\NuGet.Config"
